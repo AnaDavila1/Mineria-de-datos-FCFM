@@ -7,7 +7,7 @@
 
 [Ejercicios básicos de Phyton](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Ej_Phyton_1986209.ipynb)
 
-[Primer avance](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Avance1_PIA_Equipo3.ipynb)
+[Primer avance PIA](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Avance1_PIA_Equipo3.ipynb)
 
 ## Fase II
 
