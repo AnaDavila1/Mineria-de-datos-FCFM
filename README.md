@@ -13,5 +13,9 @@
 
 ## Fase II
 [Presentación: Regresión bayesiana](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Presentaci%C3%B3n_Regresi%C3%B3nBayesiana_Equipo3.pdf)
+
+[Ejemplo: Regresión bayesiana](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Regresi%C3%B3n%20Bayesiana%20Ejemplo.ipynb)
+
+[Calificación de mini-examen: Regresión bayesiana](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Calificaci%C3%B3n_Regresi%C3%B3nBayesiana_Equipo3.pdf)
 ## Fase III
 
