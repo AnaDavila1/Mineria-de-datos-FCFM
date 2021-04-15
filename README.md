@@ -20,5 +20,6 @@
 
 [Mapa mental: técnicas de minería de datos](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/MapaMental_2_1986209.pdf)
 
-## Fase III
 [Segundo avance PIA](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/AvancePIA_II_Grupo02_Equipo3.ipynb)
+
+## Fase III
