@@ -28,4 +28,4 @@
 
 ## Fase III
 + [PIA-Póster](https://nbviewer.jupyter.org/github/AnaDavila1/Mineria-de-datos-FCFM/blob/main/PIA_Grupo02_Equipo3.pdf)
-+ [PIA código-Versión final](http://localhost:8888/notebooks/Desktop/Miner%C3%ADa%20Datos/PIA_Equipo3_Versi%C3%B3nFinal.ipynb)
++ [PIA código-Versión final](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/PIA_Equipo3_Versi%C3%B3nFinal.ipynb)
